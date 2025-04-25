@@ -1,0 +1,59 @@
+{
+    "slides": [
+        {
+            "id": 1,
+            "title": "Introduction",
+            "bullets": [
+                "Denis Leif Kreuzer",
+                "Originally from Frankfurt",
+                "Creative Director & Strategist",
+                "10+ years experience"
+            ],
+            "transcript": "Hi, I'm Denis Leif Kreuzer, originally from Frankfurt. I come from a creative background — I've spent over a decade working as a Creative Director and Strategist, leading brand, design, and content projects for everything from startups to major international events."
+        },
+        {
+            "id": 2,
+            "title": "Studio Sen",
+            "bullets": [
+                "Founder of Studio Sen",
+                "Combining design & tech",
+                "Storytelling & mindfulness",
+                "Emerging tech integration"
+            ],
+            "transcript": "I've also founded my own studio, Studio Sen, where we combine design, storytelling, and mindfulness with emerging tech."
+        },
+        {
+            "id": 3,
+            "title": "Tech Transition",
+            "bullets": [
+                "Natural progression to tech",
+                "Automation & AI focus",
+                "Generative design",
+                "Future-ready approach"
+            ],
+            "transcript": "Over time, I found myself more and more drawn to the tech side of things — not just using digital tools, but actually building them. I started experimenting with automation, generative design, and AI-driven workflows, and realized how much more impact I could have by understanding the tech behind the visuals."
+        },
+        {
+            "id": 4,
+            "title": "Unique Value",
+            "bullets": [
+                "Full package approach",
+                "Creativity meets tech",
+                "Strategic thinking",
+                "Leadership experience"
+            ],
+            "transcript": "What makes me a great fit is that I don't just bring technical skills — I bring the full package: creativity, strategy, leadership, and now, the technical know-how to actually bring ideas to life from concept to code."
+        },
+        {
+            "id": 5,
+            "title": "Vision",
+            "bullets": [
+                "Bridging user & system",
+                "Meaningful solutions",
+                "Thoughtful design",
+                "Future-focused"
+            ],
+            "transcript": "I understand both the user side and the system side, and I love bridging those two worlds. That's what really drives me: creating things that are not just functional, but thoughtful and meaningful."
+        }
+    ]
+} 
