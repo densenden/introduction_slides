@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presenter View - byte5</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/presenter.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Geist+Sans:wght@100;400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="presenter-container">
+        <header>
+            <h1>Presenter Ansicht</h1>
+            <div class="slide-info">
+                <span>Slide <span id="current-slide-num">1</span> von <span id="total-slides">5</span></span>
+            </div>
+        </header>
+
+        <div class="content-wrapper">
+            <div class="preview-panel">
+                <h2>Aktueller Slide</h2>
+                <div class="slide-preview">
+                    <h3 id="slide-title"></h3>
+                    <div class="divider"></div>
+                    <ul id="slide-bullets"></ul>
+                </div>
+            </div>
+
+            <div class="notes-panel">
+                <h2>Notizen</h2>
+                <div class="transcript-content">
+                    <p id="transcript-text"></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button id="prev-slide"><i class="fas fa-chevron-left"></i> Vorheriger</button>
+            <button id="next-slide">Nächster <i class="fas fa-chevron-right"></i></button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/presenter.js') }}"></script>
+</body>
+</html> 

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bewerbung Frontend Developer React - byte5</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/byte5.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Geist+Sans:wght@100;400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="presentation-container">
+        <header>
+            <div class="header-content">
+                <h1><span class="thin">Bewerbung als</span> React Developer</h1>
+                <p>byte5 GmbH - Frankfurt am Main</p>
+            </div>
+        </header>
+
+        <div class="slide-container">
+            <div class="slide">
+                <div class="slide-header">
+                    <h2 id="slide-title"></h2>
+                    <div class="divider"></div>
+                    <ul id="slide-bullets"></ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="navigation">
+            <div class="nav-buttons">
+                <button id="prev-slide"><i class="fas fa-chevron-left"></i></button>
+                <div class="slide-indicators"></div>
+                <button id="next-slide"><i class="fas fa-chevron-right"></i></button>
+            </div>
+            <button id="presenter-mode" class="presenter-button">
+                <i class="fas fa-external-link-alt"></i> Presenter Ansicht öffnen
+            </button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/byte5.js') }}"></script>
+</body>
+</html> 

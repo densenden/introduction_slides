@@ -1,0 +1,70 @@
+{
+    "slides": [
+        {
+            "id": 1,
+            "title": "Vorstellung",
+            "bullets": [
+                "Denis Leif Kreuzer",
+                "Aus Regensburg, seit 2010 in FFM",
+                "Kreativer Kopf & Stratege",
+                "15+ Jahre Erfahrung"
+            ],
+            "transcript": "Hallo, ich bin Denis Leif Kreuzer, ursprünglich aus Regensburg. Ich komme aus dem kreativen Bereich - seit über einem Jahrzehnt arbeite ich als Creative Director und Stratege und leite Marken-, Design- und Content-Projekte für alles von Startups bis hin zu großen internationalen Events."
+        },
+        {
+            "id": 2,
+            "title": "React & Next.js",
+            "bullets": [
+                "Leidenschaft für Frontend-Entwicklung",
+                "Erfahrung mit React/Next.js",
+                "Python, TypeScript & JavaScript Skills",
+                "Responsive Design & UX-Fokus"
+            ],
+            "transcript": "Meine Leidenschaft gilt dem Frontend-Development mit React und Next.js. Ich bringe arbeite an fundierten Kenntnisse in Python, TypeScript und JavaScript mit und lege großen Wert auf responsive, nutzerfreundliche Designs, die nicht nur gut aussehen, sondern auch intuitiv zu bedienen sind."
+        },
+        {
+            "id": 3,
+            "title": "Agile Arbeitsweise",
+            "bullets": [
+                "Selbstständiges Arbeiten",
+                "Agile Entwicklungsmethoden",
+                "Kreatives Problemlösen",
+                "Out-of-the-box Denken"
+            ],
+            "transcript": "Ich arbeite selbstständig und bin mit agilen Entwicklungsmethoden vertraut. Was mich auszeichnet, ist meine Fähigkeit, kreativ zu denken und unkonventionelle Lösungsansätze zu finden. Ich scheue mich nicht davor, neue Wege zu gehen und innovative Ideen einzubringen."
+        },
+        {
+            "id": 4,
+            "title": "Aktuelle Projekte",
+            "bullets": [
+                "🎬 flix.sen.studio – React & Next.js Video-Plattform",
+                "🧠 synapsee.sen.studio – React Project Page",
+                "🍽️ forkit.sen.studio – React Movement Platform",
+                "🎭 meme-machine.app – Flask & Python Chat Machine"
+            ],
+            "transcript": "Ich habe mehrere Projekte entwickelt, die meine Fähigkeiten in React, Next.js und Flask demonstrieren: Eine Video-Community-Plattform (flix), ein Relationship-Tool (synnapsee) mit Apple Intelligence, eine Rezepte-Web-App (forkit) und eine Meme-Machine-Anwendung in WhattsApp. Zusätzlich arbeite ich an einer E-Commerce-Lösung mit Medusa.js als Basis und Sanity als Headless CMS, eine Shopify-Alternative für das shoppen meiner Kunstwerke."
+        },
+        {
+            "id": 5,
+            "title": "Warum byte5?",
+            "bullets": [
+                "Innovative Webprojekte",
+                "Unterstützung im Team",
+                "Persönliche Entwicklung",
+                "Agile Arbeitskultur"
+            ],
+            "transcript": "byte5 bietet genau das Umfeld, das ich suche: innovative Webprojekte für anspruchsvolle Kunden, ein unterstützendes Team, in dem ich wachsen kann, und eine agile Arbeitskultur, die zu meiner Arbeitsweise passt. Ich bin bereit, meine Kreativität und technischen Fähigkeiten bei euch einzubringen."
+        },
+        {
+            "id": 6,
+            "title": "Mein Angebot",
+            "bullets": [
+                "20 Stunden pro Woche bis 2026",
+                "Abrechnung als Freelancer über meine Firma",
+                "Flexible Zusammenarbeit",
+                "Ab 2026 Interesse an Festanstellung"
+            ],
+            "transcript": "Aktuell kann ich bis 2026 bis zu 20 Stunden pro Woche für byte5 einsetzen. Als Selbständiger rechne ich über meine eigene Firma ab und biete somit eine unkomplizierte, flexible Zusammenarbeit. Ab 2026 bin ich dann an einer Festanstellung interessiert, um mich vollständig auf byte5 zu konzentrieren."
+        }
+    ]
+} 

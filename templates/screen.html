@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentation Screen View</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/screen.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="screen-container">
+        <div class="slide">
+            <h1 id="slide-title"></h1>
+            <ul id="slide-bullets"></ul>
+        </div>
+
+        <div class="navigation">
+            <button id="prev-slide"><i class="fas fa-chevron-left"></i></button>
+            <div class="slide-indicators"></div>
+            <button id="next-slide"><i class="fas fa-chevron-right"></i></button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/screen.js') }}"></script>
+</body>
+</html> 
